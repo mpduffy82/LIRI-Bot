@@ -178,7 +178,7 @@ function spotifyThis() {
     }
     else {
 
-      spotify.search({ type: 'track', query: "The Sign Ace of Base" }, function (err, data) {
+      spotify.search({ type: 'track', query: "Monday Morning Ant Brigade" }, function (err, data) {
         if (err) {
           return console.log('Error occurred: ' + err);
         }

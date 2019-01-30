@@ -29,3 +29,625 @@ Plot of the movie: After a young man is murdered, his spirit stays behind to war
 
 Actors in the movie: Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn
 ---------------------------------------------------------------
+Song Name: Stand by Me
+
+Artists: Ben E. King
+
+Url Link: https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy
+
+Associated Album: Don't Play That Song (Mono)
+---------------------------------------------------------------
+Song Name: I Stand Alone
+
+Artists: Godsmack
+
+Url Link: https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr
+
+Associated Album: Faceless
+---------------------------------------------------------------
+Song Name: Stand By Me
+
+Artists: Weezer
+
+Url Link: https://open.spotify.com/track/1TGcnUxYcBZAcXBKtwwTZP
+
+Associated Album: Weezer (Teal Album)
+---------------------------------------------------------------
+Song Name: Stand By Me
+
+Artists: Otis Redding
+
+Url Link: https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu
+
+Associated Album: Pain In My Heart (US Release)
+---------------------------------------------------------------
+Song Name: Stand By You
+
+Artists: Rachel Platten
+
+Url Link: https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs
+
+Associated Album: Wildfire
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Nena
+
+Url Link: https://open.spotify.com/track/5mYtpXrZZ1bbGJYDGC8I0Y
+
+Associated Album: 99 Luftballons
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/5IXeOf1hqORwp8b6c1Asqa
+
+Associated Album: The Best Of Goldfinger
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI
+
+Associated Album: Music From The Motion Picture Not Another Teen Movie
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM
+
+Associated Album: Stomping Ground
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Sleeping At Last
+
+Url Link: https://open.spotify.com/track/6MGdtBZebfkkq4YXz4ZAsc
+
+Associated Album: Covers, Vol. 1
+---------------------------------------------------------------Venue Name: White Eagle Hall
+Location: Jersey City
+Date: March 16th 2019, 6:00:02 pm
+Venue Name: Mohawk 
+Location: Austin
+Date: April 4th 2019, 7:00:27 pm
+Venue Name: House of Blues New Orleans
+Location: New Orleans
+Date: April 7th 2019, 6:00:52 pm
+Venue Name: White Oak Music Hall
+Location: Houston
+Date: April 6th 2019, 6:00:48 pm
+Venue Name: Gas Monkey Live!
+Location: Dallas
+Date: April 5th 2019, 6:00:37 pm
+Venue Name: EXIT/IN
+Location: Nashville
+Date: April 9th 2019, 6:00:42 pm
+Venue Name: The Masquerade
+Location: Atlanta
+Date: April 10th 2019, 6:00:12 pm
+Venue Name: The Beacham
+Location: Orlando
+Date: April 11th 2019, 6:00:13 pm
+Venue Name: Orpheum Theatre
+Location: Tampa
+Date: April 12th 2019, 6:00:30 pm
+Venue Name: Revolution Live
+Location: Fort Lauderdale
+Date: April 13th 2019, 6:00:46 pm
+Venue Name: The Oriental Theater
+Location: Denver
+Date: May 2nd 2019, 6:00:45 pm
+Venue Name: Metro Music Hall
+Location: Salt Lake City
+Date: May 4th 2019, 6:00:40 pm
+Venue Name: Hawthorne Theatre
+Location: Portland
+Date: May 7th 2019, 6:00:54 pm
+Venue Name: The Oriental Theater
+Location: Denver
+Date: May 3rd 2019, 6:00:43 pm
+Venue Name: The UC Theatre Taube Family Music Hall
+Location: Berkeley
+Date: May 9th 2019, 6:00:27 pm
+Venue Name: The Fonda Theatre
+Location: Los Angeles
+Date: May 11th 2019, 7:00:49 pm
+Venue Name: Observatory North Park
+Location: San Diego
+Date: May 10th 2019, 6:00:26 pm
+Venue Name: Foufounes Électriques
+Location: Montréal
+Date: August 9th 2019, 6:00:17 pm
+Venue Name: The Observatory
+Location: Santa Ana
+Date: May 12th 2019, 6:00:31 pm
+Venue Name: Phoenix Concert Theatre
+Location: Toronto
+Date: August 10th 2019, 7:00:01 pm
+Venue Name: El Corazón
+Location: Seattle
+Date: May 6th 2019, 6:00:32 pm
+Venue Name: Grog Shop
+Location: Cleveland Heights
+Date: August 13th 2019, 7:00:06 pm
+Venue Name: Delmar Hall
+Location: St. Louis
+Date: August 16th 2019, 6:00:50 pm
+Venue Name: Saint Andrews Hall
+Location: Detroit
+Date: August 14th 2019, 6:00:59 pm
+Venue Name: Mr. Smalls Theatre
+Location: Millvale
+Date: August 11th 2019, 6:00:18 pm
+Venue Name: The Fleece
+Location: Bristol
+Date: October 22nd 2019, 6:00:27 pm
+Venue Name: Varsity Theater
+Location: Minneapolis
+Date: August 18th 2019, 6:00:03 pm
+Venue Name: St. Lukes
+Location: Glasgow
+Date: October 24th 2019, 6:00:13 pm
+Venue Name: Gorilla
+Location: Manchester
+Date: October 25th 2019, 6:00:53 pm
+Venue Name: The Electric Ballroom
+Location: London
+Date: October 26th 2019, 6:00:37 pm
+Venue Name: Essigfabrik
+Location: Köln
+Date: October 27th 2019, 6:00:09 pm
+Venue Name: Markthalle
+Location: Hamburg
+Date: October 29th 2019, 6:00:41 pm
+Venue Name: Backstage Hall
+Location: Munich
+Date: October 31st 2019, 6:00:40 pm
+Venue Name: Sound of Revolution
+Location: Eindhoven
+Date: November 2nd 2019, 6:00:40 pm
+Venue Name: Metro
+Location: Chicago
+Date: August 17th 2019, 6:00:33 pm
+Venue Name: Royale
+Location: Boston
+Date: December 12th 2019, 6:00:55 pm
+Venue Name: SO 36
+Location: Berlin
+Date: October 30th 2019, 6:00:11 pm
+Venue Name: Amos' Southend
+Location: Charlotte
+Date: December 16th 2019, 6:00:50 pm
+Venue Name: The Broadberry
+Location: Richmond
+Date: December 17th 2019, 6:00:42 pm
+Venue Name: The Fillmore Silver Spring
+Location: Silver Spring
+Date: December 18th 2019, 6:00:31 pm
+
+Song Name: 99 Red Ballons
+
+Artists: Andrea Grey
+
+Url Link: https://open.spotify.com/track/6SoHjiKcWUlP4AELVVnIiW
+
+Associated Album: Best of 80's Pop Music Hits. Electropop, Synthpop & Technopop Greatest Songs
+---------------------------------------------------------------
+Song Name: 99 Red Ballons
+
+Artists: Andrea Grey
+
+Url Link: https://open.spotify.com/track/3B8yywlMaCieKftutmsuy9
+
+Associated Album: Travel Songs: Best Driving Songs. Soft Rock & Pop Road Trip Music for Drive & Trucking
+---------------------------------------------------------------
+Song Name: 99 Red Ballons
+
+Artists: Andrea Grey
+
+Url Link: https://open.spotify.com/track/1HCIl8wthq7DpxzaHSJ5X7
+
+Associated Album: Los Grandes Éxitos del Rock & Roll: Las Mejores Canciones de la Música Rock Clásico de los Años 60's 70's 80's
+---------------------------------------------------------------
+Song Name: 99 Red Ballons
+
+Artists: Nosystem!
+
+Url Link: https://open.spotify.com/track/4bqBZm5T4Dod7MyAezeF0a
+
+Associated Album: 10 años de pop mal tokado
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl
+
+Associated Album: Third Eye Blind
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Dance Gavin Dance
+
+Url Link: https://open.spotify.com/track/3YnVu5F9cHmsgygBdx7WTl
+
+Associated Album: Semi-Charmed Life
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life - 2006 Remastered Version
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/52y59AQ0HkwcxSnYrfnv5Q
+
+Associated Album: A Collection
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/33vhqvRHPl5tFtyPOByrQf
+
+Associated Album: Third Eye Blind (20th Anniversary Edition)
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Dance Gavin Dance
+
+Url Link: https://open.spotify.com/track/1MSNuok7pwFFlalr6hcZ3g
+
+Associated Album: Songs That Saved My Life
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl
+
+Associated Album: Third Eye Blind
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Dance Gavin Dance
+
+Url Link: https://open.spotify.com/track/3YnVu5F9cHmsgygBdx7WTl
+
+Associated Album: Semi-Charmed Life
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life - 2006 Remastered Version
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/52y59AQ0HkwcxSnYrfnv5Q
+
+Associated Album: A Collection
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/33vhqvRHPl5tFtyPOByrQf
+
+Associated Album: Third Eye Blind (20th Anniversary Edition)
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Dance Gavin Dance
+
+Url Link: https://open.spotify.com/track/1MSNuok7pwFFlalr6hcZ3g
+
+Associated Album: Songs That Saved My Life
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl
+
+Associated Album: Third Eye Blind
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Dance Gavin Dance
+
+Url Link: https://open.spotify.com/track/3YnVu5F9cHmsgygBdx7WTl
+
+Associated Album: Semi-Charmed Life
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life - 2006 Remastered Version
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/52y59AQ0HkwcxSnYrfnv5Q
+
+Associated Album: A Collection
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Dance Gavin Dance
+
+Url Link: https://open.spotify.com/track/1MSNuok7pwFFlalr6hcZ3g
+
+Associated Album: Songs That Saved My Life
+---------------------------------------------------------------
+Song Name: Semi-Charmed Life
+
+Artists: Third Eye Blind
+
+Url Link: https://open.spotify.com/track/33vhqvRHPl5tFtyPOByrQf
+
+Associated Album: Third Eye Blind (20th Anniversary Edition)
+---------------------------------------------------------------Venue Name: White Eagle Hall
+Location: Jersey City
+Date: March 16th 2019, 6:00:02 pm
+Venue Name: Mohawk 
+Location: Austin
+Date: April 4th 2019, 7:00:27 pm
+Venue Name: Gas Monkey Live!
+Location: Dallas
+Date: April 5th 2019, 6:00:37 pm
+Venue Name: White Oak Music Hall
+Location: Houston
+Date: April 6th 2019, 6:00:48 pm
+Venue Name: House of Blues New Orleans
+Location: New Orleans
+Date: April 7th 2019, 6:00:52 pm
+Venue Name: EXIT/IN
+Location: Nashville
+Date: April 9th 2019, 6:00:42 pm
+Venue Name: The Masquerade
+Location: Atlanta
+Date: April 10th 2019, 6:00:12 pm
+Venue Name: The Beacham
+Location: Orlando
+Date: April 11th 2019, 6:00:13 pm
+Venue Name: Orpheum Theatre
+Location: Tampa
+Date: April 12th 2019, 6:00:30 pm
+Venue Name: Revolution Live
+Location: Fort Lauderdale
+Date: April 13th 2019, 6:00:46 pm
+Venue Name: The Oriental Theater
+Location: Denver
+Date: May 2nd 2019, 6:00:45 pm
+Venue Name: The Oriental Theater
+Location: Denver
+Date: May 3rd 2019, 6:00:43 pm
+Venue Name: Metro Music Hall
+Location: Salt Lake City
+Date: May 4th 2019, 6:00:40 pm
+Venue Name: El Corazón
+Location: Seattle
+Date: May 6th 2019, 6:00:32 pm
+Venue Name: Hawthorne Theatre
+Location: Portland
+Date: May 7th 2019, 6:00:54 pm
+Venue Name: The UC Theatre Taube Family Music Hall
+Location: Berkeley
+Date: May 9th 2019, 6:00:27 pm
+Venue Name: The Observatory
+Location: Santa Ana
+Date: May 12th 2019, 6:00:31 pm
+Venue Name: The Fonda Theatre
+Location: Los Angeles
+Date: May 11th 2019, 7:00:49 pm
+Venue Name: Phoenix Concert Theatre
+Location: Toronto
+Date: August 10th 2019, 7:00:01 pm
+Venue Name: Mr. Smalls Theatre
+Location: Millvale
+Date: August 11th 2019, 6:00:18 pm
+Venue Name: Observatory North Park
+Location: San Diego
+Date: May 10th 2019, 6:00:26 pm
+Venue Name: Foufounes Électriques
+Location: Montréal
+Date: August 9th 2019, 6:00:17 pm
+Venue Name: Delmar Hall
+Location: St. Louis
+Date: August 16th 2019, 6:00:50 pm
+Venue Name: Grog Shop
+Location: Cleveland Heights
+Date: August 13th 2019, 7:00:06 pm
+Venue Name: Varsity Theater
+Location: Minneapolis
+Date: August 18th 2019, 6:00:03 pm
+Venue Name: The Fleece
+Location: Bristol
+Date: October 22nd 2019, 6:00:27 pm
+Venue Name: Saint Andrews Hall
+Location: Detroit
+Date: August 14th 2019, 6:00:59 pm
+Venue Name: Gorilla
+Location: Manchester
+Date: October 25th 2019, 6:00:53 pm
+Venue Name: Metro
+Location: Chicago
+Date: August 17th 2019, 6:00:33 pm
+Venue Name: St. Lukes
+Location: Glasgow
+Date: October 24th 2019, 6:00:13 pm
+Venue Name: The Electric Ballroom
+Location: London
+Date: October 26th 2019, 6:00:37 pm
+Venue Name: SO 36
+Location: Berlin
+Date: October 30th 2019, 6:00:11 pm
+Venue Name: Essigfabrik
+Location: Köln
+Date: October 27th 2019, 6:00:09 pm
+Venue Name: Backstage Hall
+Location: Munich
+Date: October 31st 2019, 6:00:40 pm
+Venue Name: Sound of Revolution
+Location: Eindhoven
+Date: November 2nd 2019, 6:00:40 pm
+Venue Name: Amos' Southend
+Location: Charlotte
+Date: December 16th 2019, 6:00:50 pm
+Venue Name: The Broadberry
+Location: Richmond
+Date: December 17th 2019, 6:00:42 pm
+Venue Name: The Fillmore Silver Spring
+Location: Silver Spring
+Date: December 18th 2019, 6:00:31 pm
+Venue Name: Royale
+Location: Boston
+Date: December 12th 2019, 6:00:55 pm
+Venue Name: Markthalle
+Location: Hamburg
+Date: October 29th 2019, 6:00:41 pm
+
+Song Name: 99 Red Balloons
+
+Artists: Nena
+
+Url Link: https://open.spotify.com/track/5mYtpXrZZ1bbGJYDGC8I0Y
+
+Associated Album: 99 Luftballons
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/5IXeOf1hqORwp8b6c1Asqa
+
+Associated Album: The Best Of Goldfinger
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM
+
+Associated Album: Stomping Ground
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Sleeping At Last
+
+Url Link: https://open.spotify.com/track/6MGdtBZebfkkq4YXz4ZAsc
+
+Associated Album: Covers, Vol. 1
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI
+
+Associated Album: Music From The Motion Picture Not Another Teen Movie
+---------------------------------------------------------------
+Movie Title: Ghost
+
+The IMDB rating for this movie: 7.0
+
+Rotten Tomatoes rating for the movie: 74%
+
+Country where the movie was produced: USA
+
+Language of the movie: English
+
+Plot of the movie: After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.
+
+Actors in the movie: Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn
+---------------------------------------------------------------
+Song Name: Superman
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV
+
+Associated Album: The Best Of Goldfinger
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/5IXeOf1hqORwp8b6c1Asqa
+
+Associated Album: The Best Of Goldfinger
+---------------------------------------------------------------
+Song Name: Superman
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95
+
+Associated Album: Hang-Ups
+---------------------------------------------------------------
+Song Name: 99 Red Balloons
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM
+
+Associated Album: Stomping Ground
+---------------------------------------------------------------
+Song Name: Tijuana Sunrise
+
+Artists: Goldfinger
+
+Url Link: https://open.spotify.com/track/6A0vng1rw4wppz1BZ4cuaQ
+
+Associated Album: Tijuana Sunrise
+---------------------------------------------------------------
+Song Name: Don't Turn Around
+
+Artists: Ace of Base
+
+Url Link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+
+Associated Album: The Sign (US Album) [Remastered]
+---------------------------------------------------------------
+Song Name: Don't Turn Around
+
+Artists: Ace of Base
+
+Url Link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+
+Associated Album: The Sign (US Album) [Remastered]
+---------------------------------------------------------------
+Song Name: Wait a Minute!
+
+Artists: Willow
+
+Url Link: https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh
+
+Associated Album: ARDIPITHECUS
+---------------------------------------------------------------
+Song Name: Willow Song
+
+Artists: David Galtszyk
+
+Url Link: https://open.spotify.com/track/2qdWrqgafwWTGfflEWdywn
+
+Associated Album: Willow Song
+---------------------------------------------------------------
+Song Name: Rose Golden
+
+Artists: Kid Cudi
+
+Url Link: https://open.spotify.com/track/40jxatV29fk82SAziDsPqN
+
+Associated Album: Passion, Pain & Demon Slayin'
+---------------------------------------------------------------
+Song Name: 9
+
+Artists: Willow
+
+Url Link: https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp
+
+Associated Album: 3
+---------------------------------------------------------------
+Song Name: Marceline
+
+Artists: Willow
+
+Url Link: https://open.spotify.com/track/0RCpze7hmowZIGUJs9Dm7w
+
+Associated Album: ARDIPITHECUS
+---------------------------------------------------------------
